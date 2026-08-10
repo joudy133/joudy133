@@ -30,8 +30,8 @@ Machine learning fundamentals and the Python data science toolkit — pandas, Nu
 
 ### 📫 Get in touch
 
-- LinkedIn: *https://www.linkedin.com/in/joudy-kasha-100421338*
-- Email: *joudy.jk@gmail.com*
+- LinkedIn: [Here](https://www.linkedin.com/in/joudy-kasha-100421338)
+- Email: [my Email](joudy.jk@gmail.com)
 
 <div align="center">
 
